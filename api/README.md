@@ -30,13 +30,13 @@ TIENDANUBE_API_URL=https://api.nuvemshop.com.br/v1
 
 # App settings
 # You client secret for app
-CLIENT_SECRET=
+CLIENT_SECRET=0d293d7b93628cc9901ac2b14caa76a1a1a1e80036b6bb25
 
 # You app id
-CLIENT_ID=
+CLIENT_ID=10278
 
 # Your Partners Portal account email
-CLIENT_EMAIL=
+CLIENT_EMAIL=mmagarelli@gmail.com
 
 # Your secret
 SECRET_KEY=THE_SECRET
